@@ -8,6 +8,7 @@ const app = express();
 
 app.use(cors());
 app.use(express.json());
+console.log(process.env.apiKey)
 
 app.use("/search", searchRouter);
 app.use("/weather", weatherRouter);
