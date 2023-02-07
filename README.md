@@ -1,6 +1,7 @@
-# Weather App - Backend
+# Weather App - server
 
-The backend was made using Node and Express with a REST api. 
+The backend was made using Node and Express with a REST api.
+
 The frontend was made using React, Redux Toolkit and MUI.
 
 ## Description
