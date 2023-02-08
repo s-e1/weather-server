@@ -2,7 +2,9 @@
 
 The backend was made using Node and Express with a REST api.
 
-The frontend was made using React, Redux Toolkit and MUI.
+The [frontend] (https://github.com/s-e1/weather-client) was made using React, Redux Toolkit and MUI.
+
+The app is deployed [here] (https://s-e1.github.io/weather-client). 
 
 ## Description
 
